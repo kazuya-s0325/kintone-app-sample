@@ -1,2 +1,3 @@
 # kintone-app-sample
-added function for kintone app
+
+update it when I feel like it.
